@@ -55,7 +55,7 @@ Keras-functionalAPI.ipynb   # main notebook
 
 ---
 
-## 🚀 Summary
+##  Summary
 
 This project provides a hands-on introduction to designing neural networks using Keras in a more flexible and scalable way, preparing for advanced architectures such as multi-input models and deep learning pipelines.
 
