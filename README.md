@@ -5,7 +5,7 @@ This project demonstrates how to build neural networks using the **Keras Functio
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The notebook focuses on constructing models where layers are connected explicitly, enabling:
 
@@ -17,7 +17,7 @@ The Functional API treats models as **graphs of layers**, rather than simple sta
 
 ---
 
-## 🧠 Key Idea
+##  Key Idea
 
 Instead of stacking layers linearly, we define how data flows:
 
@@ -30,7 +30,7 @@ Each layer takes the previous layer as input and returns a new tensor.
 
 ---
 
-## ⚙️ What This Project Covers
+##  What This Project Covers
 
 * defining input layers
 * connecting hidden layers
@@ -39,7 +39,7 @@ Each layer takes the previous layer as input and returns a new tensor.
 
 ---
 
-## 📊 Why Functional API?
+##  Why Functional API?
 
 * more flexible than Sequential models
 * supports complex architectures
@@ -47,7 +47,7 @@ Each layer takes the previous layer as input and returns a new tensor.
 
 ---
 
-## 📂 File
+##  File
 
 ```
 Keras-functionalAPI.ipynb   # main notebook
